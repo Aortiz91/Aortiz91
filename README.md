@@ -36,7 +36,7 @@ I'm Software Developer (2022) and Chemical Engineer (2015) with experience and t
 
   
 - ✨✨ Special Interest in:
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=plastic&logo=Kotlin)
+  ![Solidity](https://img.shields.io/badge/-Solidity-black?style=plastic&logo=Solidity)
 
 
 ## Stats
