@@ -30,7 +30,7 @@ I'm Software Developer (2022) and Chemical Engineer (2015) with experience and t
   ![JQuery](https://img.shields.io/badge/-JQuery-black?style=plastic&logo=JQuery)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=plastic&logo=ubuntu)
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning:
   ![Solidity](https://img.shields.io/badge/-Solididy-black?style=plastic&logo=solidity)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=plastic&logo=Kotlin)
 
