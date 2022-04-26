@@ -14,7 +14,7 @@
 ## About me
 I'm Software Developer (2022) and Chemical Engineer (2015) with experience and training in Leadership, Quality Control, Project Management, Low Level Programming, OOP, Databases, Git, Datastructure, Devops.  I am a Self-learner programmer, used to face challenges as opportunities to grow. I'm eager of having new experiences and keep learning on the road
 
-- 🚀 Experience with:
+- 🚀 Jr experience with:
   ![C](https://img.shields.io/badge/-C-black?style=plastic&logo=C)
   ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
   ![Shell Script](https://img.shields.io/badge/-ShellScript-black?style=plastic&logo=gnu-bash)
@@ -30,9 +30,13 @@ I'm Software Developer (2022) and Chemical Engineer (2015) with experience and t
   ![JQuery](https://img.shields.io/badge/-JQuery-black?style=plastic&logo=JQuery)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=plastic&logo=ubuntu)
 
-  
-- 🌱 Special Interest in:
+- 🌱 I’m currently learning ...
   ![Solidity](https://img.shields.io/badge/-Solididy-black?style=plastic&logo=solidity)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=plastic&logo=Kotlin)
+
+  
+- ✨✨ Special Interest in:
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=plastic&logo=Kotlin)
 
 
 ## Stats
@@ -55,3 +59,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
