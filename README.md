@@ -10,7 +10,8 @@
 </div>
 
 ## About me
-DevOps Engineer since 2022, working remotely for a US-based company from Montevideo, Uruguay.
+DevOps Engineer based in Montevideo, Uruguay.
+I moved into IT in 2022 after completing the IT Foundations program at Holberton School, and since then I've been working on a US-based client project, supporting CI/CD pipelines and container infrastructure.
 Chemical Engineer by training (2015): that background gave me a process-driven mindset (quality control, root-cause analysis and continuous improvement), which I now apply to infrastructure and delivery pipelines.
 
 - 🛠️ **What I work with:**
@@ -23,7 +24,6 @@ Chemical Engineer by training (2015): that background gave me a process-driven m
   ![Bash](https://img.shields.io/badge/-Bash-black?style=plastic&logo=gnu-bash)
   ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Nginx](https://img.shields.io/badge/-Nginx-black?style=plastic&logo=nginx)
 
 - 🌱 **Currently learning:**
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes%20(AKS)-black?style=plastic&logo=kubernetes)
