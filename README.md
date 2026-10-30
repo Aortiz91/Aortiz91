@@ -4,60 +4,34 @@
 
 <div id="badges" align="center">
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-aortiz91-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aortiz91/)](https://www.linkedin.com/in/aortiz91/)
 [![Gmail Badge](https://img.shields.io/badge/-aortizm.09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aortizm.09@gmail.com)](mailto:aortizm.09@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-aortiz91_-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/aortiz91_/)](https://twitter.com/aortiz91_/)
-  
+
 </div>
 
 ## About me
-I'm Software Developer (2022) and Chemical Engineer (2015) with experience and training in Leadership, Quality Control, Project Management, Low Level Programming, OOP, Databases, Git, Datastructure, Devops.  I am a Self-learner programmer, used to face challenges as opportunities to grow. I'm eager of having new experiences and keep learning on the road
+DevOps Engineer since 2022, working remotely for a US-based company from Montevideo, Uruguay.
+Chemical Engineer by training (2015): that background gave me a process-driven mindset (quality control, root-cause analysis and continuous improvement), which I now apply to infrastructure and delivery pipelines.
 
-- 🚀 Jr experience with:
-  ![C](https://img.shields.io/badge/-C-black?style=plastic&logo=C)
-  ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
-  ![Shell Script](https://img.shields.io/badge/-ShellScript-black?style=plastic&logo=gnu-bash)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![Flask](https://img.shields.io/badge/-Flask-black?style=plastic&logo=flask)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code)
-  ![NginX](https://img.shields.io/badge/NginX-black?style=plastic&logo=nginx)
-  ![MySQL](https://img.shields.io/badge/MySQL-black?style=plastic&logo=mysql)
-  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github)
-  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3)
-  ![JQuery](https://img.shields.io/badge/-JQuery-black?style=plastic&logo=JQuery)
+- 🛠️ **What I work with:**
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
+  ![Docker Swarm](https://img.shields.io/badge/-Docker%20Swarm-black?style=plastic&logo=docker)
+  ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-black?style=plastic&logo=azuredevops)
+  ![JFrog Artifactory](https://img.shields.io/badge/-JFrog%20Artifactory-black?style=plastic&logo=jfrog)
+  ![Linux](https://img.shields.io/badge/-Linux-black?style=plastic&logo=linux)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=plastic&logo=ubuntu)
+  ![Bash](https://img.shields.io/badge/-Bash-black?style=plastic&logo=gnu-bash)
+  ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=python)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Nginx](https://img.shields.io/badge/-Nginx-black?style=plastic&logo=nginx)
 
-- 🌱 I’m currently learning:
-  ![Solidity](https://img.shields.io/badge/-Solididy-black?style=plastic&logo=solidity)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=plastic&logo=Kotlin)
+- 🌱 **Currently learning:**
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes%20(AKS)-black?style=plastic&logo=kubernetes)
+  ![Argo CD](https://img.shields.io/badge/-Argo%20CD-black?style=plastic&logo=argo)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=plastic&logo=githubactions)
+  ![Claude](https://img.shields.io/badge/-Claude-black?style=plastic&logo=claude)
 
-  
-- ✨✨ Special Interest in:
-  ![Solidity](https://img.shields.io/badge/-Solidity-black?style=plastic&logo=Solidity)
-
+- 🎯 **Working towards:** Anthropic Claude Certified Associate & Architect – Foundations
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aortiz91&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)                                       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aortiz91&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<!--
-**Aortiz91/Aortiz91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aortiz91&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
